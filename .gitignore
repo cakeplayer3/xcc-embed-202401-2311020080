@@ -1,0 +1,17 @@
+# Keil MDK / CubeMX build outputs
+Objects/
+Listings/
+RTE/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.lst
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+JLinkLog.txt
+JLinkSettings.ini
+build_out.txt
